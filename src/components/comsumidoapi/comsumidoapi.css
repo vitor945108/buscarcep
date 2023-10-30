@@ -1,0 +1,48 @@
+body{
+  display: flex;
+  justify-content: center;
+ align-items: center;
+  height: 100vh;
+}
+.box { 
+
+          justify-items: center;
+        
+          color: #e9ebec;
+           width: 300px;
+           height: 500px;
+         background-image: linear-gradient(to left, rgba(0,67,116,0.6) -26.48%, rgba(0,51,102,0.6) 73.52%);
+
+        
+        
+           
+           }
+          .text{
+           position: relative;
+           top: 10px;
+           text-align: center;           
+          }
+          body{
+         background-image: url("../../images/sunset.jpg");
+        
+          }
+          p{ 
+                     margin-left: 10px;
+                    position: relative;
+                    top: 10px;
+                    color: rgb(255, 255, 255);
+                    font-size: 20px;
+                    align-items: center;
+          }
+          label{
+                    font-size: 20px;
+                    position: relative;
+                  
+          }
+          .conteiner{
+            float: left;
+            float: right;
+           margin: 30px;
+         
+           
+          }

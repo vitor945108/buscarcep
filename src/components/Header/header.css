@@ -1,0 +1,17 @@
+.header-menu {
+    background-color: rgb(15, 9, 3);
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+.img-logo{
+    width: 5%;
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color: yellow;
+}
