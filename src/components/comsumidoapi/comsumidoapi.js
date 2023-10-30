@@ -18,8 +18,8 @@ function Consumidorapi(){
                     setData("");
                 }else{
                     setData(
-                        response.data.logradouro + " bairro  " +
-                        response.data.bairro + " " +
+                        response.data.logradouro + " bairro: " +
+                        response.data.bairro + "      cidade: " +
                         response.data.localidade+ " " +
                         response.data.uf+ " " +
                         response.data.cep
