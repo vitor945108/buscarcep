@@ -26,7 +26,8 @@ function Consumidorapi(){
                     )
                     setCepInvalido("")
                 }
-            }).catch((error) => {
+            })
+            .catch((error) => {
                 console.log(error)
                 setData("");
                 setCepInvalido("Cep Inválido")
