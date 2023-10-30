@@ -40,7 +40,7 @@ function Consumidorapi(){
                 
                 <div className="conteiner">
                     <input type="text" value={buscaCep} onChange={(e) => setBuscaCep(e.target.value)}/>
-                    <button onClick={buscaApi}>IR</button>
+                    <button onClick={buscaApi}>buscar</button>
                 </div>
             </form>
             <p >
