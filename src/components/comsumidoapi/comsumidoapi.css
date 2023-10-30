@@ -19,7 +19,7 @@ body{
            }
           .text{
            position: relative;
-           top: 30px;
+           top: 20px;
            text-align: center;           
           }
           body{
@@ -40,9 +40,8 @@ body{
                   
           }
           .conteiner{
-            float: left;
-            float: right;
-           margin: 50px;
+         
+           margin: 20px;
          
            
           }
